@@ -28,15 +28,12 @@
 }
 
 @media screen and (min-width: 767px) {
-  header {
+  .site-header {
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
   }
-}
-
-@media screen and (min-width: 767px) {
   .views {
     display: flex;
     flex-direction: row;
